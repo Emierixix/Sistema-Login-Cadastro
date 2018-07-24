@@ -63,9 +63,7 @@ CREATE TABLE `emierixix` (
 --
 
 INSERT INTO `emierixix` (`id`, `nome`, `usuario`, `senha`, `chave`, `end_ip`) VALUES
-(222, 'Emierixix', 'Emierixix', '9f08e0e14eb93c9cd05fdcae991d5f35', '9aad592bb0c4543e04b7', ' 24-0A-64-5E-B4-34\r\n'),
-(223, 'mrxoficial', 'mrxoficial', '9e5317e838cb5bd8e98a013fffc2b30e', '35d812035639d65dac31', ' 24-0A-64-5E-B4-34\r\n');
-
+(222, 'Emierixix', 'Emierixix', '9f08e0e14eb93c9cd05fdcae991d5f35', '9aad592bb0c4543e04b7', ' 24-0A-64-5E-B4-34\r\n');
 --
 -- Indexes for dumped tables
 --
