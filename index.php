@@ -5,7 +5,7 @@ session_start();
 $ssn_user = $_SESSION['usuario'];
 $ssn_chv = $_SESSION['CHV'];
 
-if (isset($ssn_user) && !empty($ssn_user) && !empty($ssn_chv) && !empty($ssn_chv)) {
+if (isset($ssn_user) && !empty($ssn_user) && isset($ssn_chv) && !empty($ssn_chv)) {
 
 	require 'config.php';
     	$stmt = $dbh->prepare("
