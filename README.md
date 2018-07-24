@@ -10,9 +10,9 @@ Um sistema de login e cadastro criado para manter uma maior segurança em nossos
 
 # Criador
 
-* **Italo Castro** - *Initial work* - [Emierixix](https://github.com/Emierixix)
-* **Facebook** - *Initial work* - [Emierixix](https://facebook.com/italodzn)
-* Criado em 24/07/2018
+* **Emierixix** - *Github* - [Github](https://github.com/Emierixix)
+* **Emierixix** - *Facebook* - [Facebook](https://facebook.com/italodzn)
+* **Criado em** 24/07/2018*
 
 # License
 
